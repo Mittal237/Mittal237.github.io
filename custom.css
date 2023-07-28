@@ -1,0 +1,27 @@
+﻿.logo-title {
+    color: #fff;
+    font-size: 30px;
+    padding-left: 10px;
+}
+
+.logo-title-mobile {
+    color: #fff;
+    font-size: 20px;
+    padding-left: 5px;
+}
+
+.logo-image-mobile {
+    height: 60px !important;
+    width: 60px !important;
+}
+
+.bg-gredient {
+    background-color: #b2b2b2;
+    background-color: rgba(0, 0, 0, .3);
+}
+.site-logo-interior-page{
+    padding:5px;
+}
+.site-logo-text-interior-page{
+    font-weight:700;
+}
